@@ -1,4 +1,4 @@
-🔭 I’m am a Back-End Developer<br>👯 I’m looking to collaborate on FOOS tech.<br>🌱 I’m currently learning python <br>
+🔭 I’m am a Back-End Developer<br>👯 I’m looking to collaborate on FOOS tech.<br>🌱
 
 
 ## 🌐 Socials:
